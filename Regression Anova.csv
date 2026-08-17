@@ -1,0 +1,21 @@
+Regression ANOVA for Cubic Response-Surface Model,,,,,
+,,,,,
+Source,SS,DF,MS,F,Notes
+Cubic model,13.617648,9.000000,1.513072,436.613661,Overall model
+Residual,0.329220,95.000000,0.003465,-,
+Lack of fit,0.326235,25.000000,0.013049,306.050343,Compared with pure error
+Pure error,0.002985,70.000000,0.000043,-,Within-condition replicate variability
+Total,13.946868,104.000000,-,-,
+,,,,,
+Model statistic,Value,,,,
+R²,0.976395,,,,
+Adjusted R²,0.974158,,,,
+Residual RMSE (g/g),0.058868,,,,
+Independent conditions,35,,,,
+Replicates per condition,3,,,,
+Total observations,105,,,,
+,,,,,
+Polynomial contribution,SS,DF,MS,Partial F,Interpretation
+Linear,10.009446,2.000000,5.004723,1444.168203,Added to intercept-only model
+Quadratic,2.280930,3.000000,0.760310,219.395810,Added to linear model
+Cubic,1.327272,4.000000,0.331818,95.749778,Added to quadratic model
