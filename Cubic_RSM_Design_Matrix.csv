@@ -104,4 +104,4 @@ Temperature (¡C),RH (%),Water activity (Aw),Replicate,Observed WU (g/g),Conditi
 50,70,0.70,1,0.572000,0.574333,0.557810,0.014190
 50,70,0.70,2,0.575000,0.574333,0.557810,0.017190
 50,70,0.70,3,0.576000,0.574333,0.557810,0.018190
-AT RH=0, the uptake was predicted as zero theoretically rather than an experimental value
+
